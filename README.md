@@ -4,44 +4,77 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Fome Zero Brasil
 
-## Nome do Grupo
+## Fome Zero
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://github.com/LucasLimaGutierrez">Lucas de Lima Gutierrez</a>, <a href="https://github.com/OtavioVecchi06">Otavio Vecchi Zeferino</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
-## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
+# Descrição
+<br><br>
+O Projeto Fome Zero Brasil, tem como propósito influenciar pessoas a ajudar a causa, e informar o porque devemos ajudar, visto que no Brasil, nos anos de 2021 até 2023, cerca de 8,4 milhões de brasileiros passaram fome, então temos o compromisso de ajudar de alguma forma essas pessoas
 
+# Protótipo navegável do figma
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+https://www.figma.com/design/eRR8NFWhH3PhSFREfWyr6D/Untitled?node-id=0-1&node-type=canvas&t=AT47MLQMMkPETvbD-0
+
 
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+|-->documentos
+ |-->Entrega 1
+  |-->Venha para a FECAP!.txt
+  |-->entrega 1.pdf
+  |-->calculo.jpeg 
+  |-->entrega 2.pdf
+ |-->Entrega 2
+  |-->Banco de dados.drawio
+  |-->banco de dados.txt
+  |--Venha para a FECAP!.txt
+ |-->Entrega 3
+  |-->Venha para a FECAP!.txt
+ |-->Entrega 4
+  |-->Venha para a FECAP!.txt
+ |-->Venha para a FECAP!.txt
+|-->imagens
+ |-->Bootstrap_5.0_Screenshot.png
+|-->src
+ |-->Backend
+  |-->Colocar os códigos do Backend Aqui.txt
+ |-->Frontend
+  |-->app
+    |-->img
+        |-->banner.jpg
+        |-->caminho.png
+        |-->capatras.png
+        |-->img-1.jpeg
+        |-->img-2.jpg
+        |-->logo.png
+        |-->public
+        |-->vite.svg
+    |-->src
+        |-->assets
+          |-->react.svg
+        |-->App.jsx
+        |-->Main.jsx
+        |-->style.css
+      |-->.gitignore
+      |-->README.md
+      |-->contato.html
+      |-->eslint.config.js
+      |-->index.html
+      |-->package-lock.json
+      |-->package.json
+      |-->sobre.html
+      |-->vite.config.js
+    |-->Colocar os códigos do Backend Aqui.txt
+ |-->.gitignore
+ |-->README.md
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
@@ -65,47 +98,15 @@ Há também 4 pastas que seguem da seguinte forma:
 Faça o Download do JOGO.apk no seu celular.
 Execute o APK e siga as instruções de seu telefone.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 
-<b>Windows:</b>
 
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 📋 Licença/License
 
+Fome Zero Brasil by Lucas de Lima Gutierrez, Otavio Vecchi Zeferino is marked with CC0 1.0 Universal 
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. https://juntospelascriancas.visaomundial.org.br/?gad_source=1&gclid=Cj0KCQjwu-63BhC9ARIsAMMTLXRoDpocfdO4p3jfQCR44fDqLq4hf6Ud5sLq2EXXzawUriykdMfkwTcaAg_CEALw_wcB
