@@ -16,7 +16,7 @@
 <br><br>
 O Projeto Fome Zero Brasil, tem como propósito influenciar pessoas a ajudar a causa, e informar o porque devemos ajudar, visto que no Brasil, nos anos de 2021 até 2023, cerca de 8,4 milhões de brasileiros passaram fome, então temos o compromisso de ajudar de alguma forma essas pessoas
 
-# Protótipo navegável do figma
+# Protótipo navegável do figma.
 
 https://www.figma.com/design/eRR8NFWhH3PhSFREfWyr6D/Untitled?node-id=0-1&node-type=canvas&t=AT47MLQMMkPETvbD-0
 
