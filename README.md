@@ -10,8 +10,7 @@
 
 ## Integrantes: <a href="https://github.com/LucasLimaGutierrez">Lucas de Lima Gutierrez</a>, <a href="https://github.com/OtavioVecchi06">Otavio Vecchi Zeferino</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/dolemes/?original_referer=https%3A%2F%2Fgithub.com%2F">Prof. David De Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/victorbarq/">Profª. Katia Milani Lara Bossi</a>
 
 # Descrição
 <br><br>
